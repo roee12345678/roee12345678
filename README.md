@@ -61,3 +61,6 @@ I served in the IDF's Intelligence Corps (Unit 8200) as a wireless operator and 
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roee12345678&layout=compact&theme=discord_old_blurple) 
+
